@@ -1,0 +1,2 @@
+# keepFolderPrivate
+keep
